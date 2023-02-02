@@ -16,4 +16,8 @@ Hints:
 * write a conclusion to your findings.
 
 ## Notes
+### GPU usage
 I have chosen to use Google Colab because a GPU is freely available. Hence, it will be assumed that a GPU is available. If not, some packages might either not work (CuML) or be slower (BERTopic). You can fix this by using the *standard* package versions.
+
+### Visualizations
+All the visualizations (both interactive and static) cannot approprietaly be rendered in the notebook. Therefore, you might want to re-run the notebook to get them.
