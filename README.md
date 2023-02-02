@@ -21,3 +21,6 @@ I have chosen to use Google Colab because a GPU is freely available. Hence, it w
 
 ### Visualizations
 All the visualizations (both interactive and static) cannot approprietaly be rendered in the notebook. Therefore, you might want to re-run the notebook to get them.
+
+### Pre-trained model checkpoint
+If you are not keen to re-train the model, download the checkpoint from [Google Drive](https://drive.google.com/file/d/1m5-UfM5EiIaaaCVWUZ0QsMmZtE315BWR/view?usp=sharing).
